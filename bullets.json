@@ -1,0 +1,13 @@
+[
+  {"title":"Women's issues","subtitle":"Political issues","ranges":[170,250,300],"measures":[220,270],"markers":[250]},
+  {"title":"Fiscal issues","subtitle":"Political issues","ranges":[20,25,130],"measures":[21,23],"markers":[26]},
+  {"title":"Education","subtitle":"Political issues","ranges":[450,500,600],"measures":[100,320],"markers":[550]},
+  {"title":"Money in Politics","subtitle":"Political issues","ranges":[1500,2000,2500],"measures":[1000,1650],"markers":[2100]},
+  {"title":"Government","subtitle":"Political issues5","ranges":[3.5,4.25,5],"measures":[3.2,4.7],"markers":[4.4]},
+  {"title":"Healthcare","subtitle":"Political issues","ranges":[150,225,300],"measures":[250,230],"markers":[250]},
+  {"title":"Drug policy","subtitle":"Political issues","ranges":[20,25,30],"measures":[21,23],"markers":[26]},
+  {"title":"Immigration","subtitle":"Political issues","ranges":[350,500,600],"measures":[100,320],"markers":[550]},
+  {"title":"Abortion","subtitle":"Political issues","ranges":[1500,2200,2500],"measures":[1300,1650],"markers":[2100]},
+  {"title":"Lgbt","subtitle":"Political issues","ranges":[3.5,4.25,5],"measures":[3.2,4.7],"markers":[4.4]}
+
+]
